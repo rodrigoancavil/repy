@@ -6,7 +6,9 @@ How parse differents string entries.
  
 The example show how parse an url, finding the protocol, ip/name of the server and port. 
 
-* Regular exrpressions (re): (ToDo)
+* Regular exrpressions (re):
+ 
+With the regular expression we can parse string's chunck in a text.
 
 * How parse string entries: (ToDO)
  
