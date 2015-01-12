@@ -8,7 +8,7 @@ The example show how parse an url, finding the protocol, ip/name of the server a
 
 * Regular exrpressions (re):
 
-The regular expression are patterns to find in a text. With the regular expression we can parse string's chunck in a text.
+The regular expressions are patterns to find a word in a text. With the regular expression we can parse string's chunks in a text.
 
 * How parse string entries: (ToDO)
  
