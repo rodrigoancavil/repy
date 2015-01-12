@@ -6,8 +6,8 @@ How parse differents entries
  
 The example show how parse an url, finding the protocol, ip/name of the server and port. 
 
-* Regular exrpressions (re):
+* Regular exrpressions (re): (ToDo)
 
-* How parse string entries:
+* How parse string entries: (ToDO)
  
-* Concepts:
+* Concepts: (ToDO)
