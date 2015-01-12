@@ -1,6 +1,6 @@
 Examples of regular expressions on python
 -----------------------------------------
-How parse differents string ntries.
+How parse differents string entries.
 
 * Example:
  
