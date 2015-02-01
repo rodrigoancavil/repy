@@ -3,7 +3,7 @@ import re
 N = int(raw_input())
 
 if N >= 1 and N <= 100:
-	c = re.compile('<(\s*\w+)\s*(?:\w+=".+")*/?\s*>|(\[.*\]\s*\(.*\))')
+	c = re.compile('<(\s*\w+)|(\[\s*[a-zA-Z0-9_\-/:\\.\s*]+\])')
 	result = []
 	for i in range(0,N):
 		W = raw_input()
