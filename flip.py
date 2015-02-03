@@ -1,3 +1,9 @@
+"""
+ input: 1
+ unsigned 32 bits for 1 is : 00000000000000000000000000000001
+ flipping we get           : 11111111111111111111111111111110
+ output : 4294967294 (converting the above binary to int)
+"""
 import string
 
 def convert_to_int(b):
